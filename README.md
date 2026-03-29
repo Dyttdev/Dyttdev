@@ -12,13 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
